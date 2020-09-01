@@ -6,4 +6,4 @@
 
 - .col-12 - consumes 100% of the width when the screen size at all sizes.
 
-**Bonus** Style col-4 and col-6 to have different font-sizes, background colors, and font color when they're queries are met.
+**Bonus** Style .col-4 and .col-6 to have different font-sizes, background colors, and font color when their queries are met.
